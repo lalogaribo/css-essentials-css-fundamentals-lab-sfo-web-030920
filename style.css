@@ -24,7 +24,8 @@ nav a {
 /*}*/
 
 #featured-property {
-  text-align: center;
+  display: flex;
+  align-items: center;
 }
 
 #featured-property img {
