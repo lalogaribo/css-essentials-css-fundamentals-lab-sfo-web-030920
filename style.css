@@ -43,6 +43,7 @@ figcaption {
 }
 
  #details div {
+   background: red;
   color: black;
   text-align: center;
   width: 25%;
