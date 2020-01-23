@@ -29,10 +29,10 @@ nav a {
   width: 900px;
 }
 
-#featured-property p {
-  text-align: center;
-  width: 900px;
-}
+/*#featured-property p {*/
+/*  text-align: center;*/
+/*  width: 900px;*/
+/*}*/
 
 #details {
   background: red;
