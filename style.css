@@ -19,15 +19,15 @@ nav a {
 }
 
 
-section#featured-property {
+#featured-property {
   text-align: center;
 }
 
-section#featured-property img {
+#featured-property img {
   width: 900px;
 }
 
-section#featured-property p {
+#featured-property p {
   text-align: center;
   width: 800px;
 }
