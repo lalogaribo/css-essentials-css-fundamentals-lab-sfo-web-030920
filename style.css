@@ -18,16 +18,13 @@ nav a {
   padding-right: 10px;
 }
 
-#featured-property {
-  
-}
 
 figcaption {
   text-align: center;
   font-size: 10px;
 }
 
- p {
+ #featured-property p {
   text-align: center;
   width: 800px;
   color: blue;
