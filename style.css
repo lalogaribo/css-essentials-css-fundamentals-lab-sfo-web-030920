@@ -26,6 +26,9 @@ nav a {
 #featured-property {
   text-align: center;
 }
+#featured-property p {
+  text-align: center;
+}
 
 #featured-property img {
   display:block;
