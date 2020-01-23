@@ -26,6 +26,9 @@ nav a {
 #featured-property {
   text-align: center;
 }
+figcaption {
+  color: red;
+}
 #featured-property p {
   text-align: center;
   width: 800px;
