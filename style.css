@@ -24,6 +24,8 @@ nav a {
 }
 
 #featured-property img {
+  display:block;
+    margin:auto;
   width: 900px;
 }
 
