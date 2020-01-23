@@ -28,5 +28,6 @@ section#featured-property img {
 }
 
 section#featured-property p {
+  text-align: center;
   width: 800px;
 }
