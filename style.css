@@ -11,5 +11,7 @@ h1 {
 
 nav{
   text-align: center;
-  
+}
+nav a {
+  padding: 10px, 0px, 10px, 0px;
 }
