@@ -18,14 +18,9 @@ nav a {
   padding-right: 10px;
 }
 
-/*#featured-property p {*/
+/*#featured-property {*/
 /*  text-align: center;*/
-/*  width: 900px;*/
 /*}*/
-
-#featured-property {
-  text-align: center;
-}
 
 figcaption {
   font-size: 10px;
