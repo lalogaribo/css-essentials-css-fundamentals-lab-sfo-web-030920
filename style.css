@@ -36,5 +36,8 @@ nav a {
 }
 
 #details div {
+  text-align: center;
+  width: 25%;
   display: inline-block;
+  
 }
