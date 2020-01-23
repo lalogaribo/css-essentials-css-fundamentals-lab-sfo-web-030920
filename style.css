@@ -33,5 +33,5 @@ nav a {
 }
 
 #details div {
-  display: block;
+  display: inline-block;
 }
