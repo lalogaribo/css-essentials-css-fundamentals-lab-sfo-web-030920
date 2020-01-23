@@ -22,3 +22,7 @@ nav a {
 section#featured-property {
   text-align: center;
 }
+
+section#featured-property img {
+  width: 500px;
+}
