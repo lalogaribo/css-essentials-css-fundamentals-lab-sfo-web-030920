@@ -33,6 +33,7 @@ nav a {
 }
 #details {
   background: red;
+  display: block;
 }
 
 #details div {
